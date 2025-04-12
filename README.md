@@ -4,8 +4,6 @@
 
 :seedling: I am interested in creative visualizations (ranging from p5.js to sunburst charts), computer vision, machine learning, mathematics, circuit design and application development
 
-:seedling: AWS Developer Associate
-
 #### Technologies and Tools 
 <div>
   <img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
